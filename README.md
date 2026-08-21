@@ -7,4 +7,4 @@ The organisation that holds all of PrecisionZero's texture packs
 
 ## License
 
-This project is licensed under the ARR License 
+This project and everything within this repository is licensed under the ARR License 
